@@ -1,0 +1,9 @@
+.lazy-reg-field .input-text
+{
+    width: 50%;
+}
+
+#lazy-reg-form .error
+{
+    color: red;
+}
